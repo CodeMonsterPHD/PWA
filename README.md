@@ -1,6 +1,6 @@
 ## Data Preparation
 
-Download raw portrait photos and retouching target from [baiduyun](https://drive.google.com/drive/folders/1gEoWtyASCX2rF8YH7EiARH6F3syjsyRz?usp=sharing).
+Download raw portrait photos and retouching target from [QuarkNetdisk](https://pan.quark.cn/s/173a32b96e52).
 If you want to use a more complete dataset, you can go to the original author's [GitHub](https://github.com/csjliang/PPR10K).
 
 	Please ensure the data structure is as below
