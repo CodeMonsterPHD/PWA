@@ -1,5 +1,5 @@
 ## Learning Pixel-Adaptive Weights for Portrait Photo Retouching
-
+* This repository is the official implementation of 
 
 ## Data Preparation
 
