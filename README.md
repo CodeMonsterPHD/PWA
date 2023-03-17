@@ -1,6 +1,6 @@
 ## Data Preparation
 
-Download raw portrait photos and retouching target from [QuarkNetdisk](https://pan.quark.cn/s/173a32b96e52) Code: 68JM.
+Download raw portrait photos and retouching target from [QuarkNetdisk](https://pan.quark.cn/s/173a32b96e52) (Code: 68JM).
 If you want to use a more complete dataset, you can go to the original author's [GitHub](https://github.com/csjliang/PPR10K).
 
 	Please ensure the data structure is as below
@@ -79,7 +79,7 @@ mask_dir='';
 
 ## Pre-trained Models
 
-You can download pretrained models [here](https://drive.google.com/drive/folders/1AXHsApPeRyinV6rmk5Xoj2FSY2-ABZRz?usp=sharing) (code:).
+You can download pretrained models [here](https://pan.quark.cn/s/173a32b96e52) (code:68JM).
 
 
 ## Results
